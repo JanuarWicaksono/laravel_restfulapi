@@ -3,7 +3,6 @@
 namespace App\Http\Middleware;
 
 use Closure;
-use App\Transformers\transformedAttribute;
 use Illuminate\Validation\ValidationException;
 use App\Transformers\originalAttribute;
 

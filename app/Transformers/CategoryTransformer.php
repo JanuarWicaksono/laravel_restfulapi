@@ -52,7 +52,7 @@ class CategoryTransformer extends TransformerAbstract
         return [
             'identifier' => 'id',
             'title' => 'name',
-            'details' => 'descrtiption',
+            'details' => 'description',
             'creationDate' => 'created_at',
             'lastChange' => 'update_at',
             'deletedDate' => 'deleted_at',
@@ -66,7 +66,7 @@ class CategoryTransformer extends TransformerAbstract
         return [
             'id'            => 'identifier',
             'name'          => 'title',
-            'descrtiption'  => 'details',
+            'description'  => 'details',
             'created_at'    => 'creationDate',
             'update_at'     => 'lastChange',
             'deleted_at'    => 'deletedDate',

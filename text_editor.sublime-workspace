@@ -50,7 +50,7 @@
 			"file": "app/Transformers/UserTransformer.php",
 			"settings":
 			{
-				"buffer_size": 1399,
+				"buffer_size": 1857,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -59,7 +59,7 @@
 			"file": "app/Transformers/ProductTransformer.php",
 			"settings":
 			{
-				"buffer_size": 2273,
+				"buffer_size": 2885,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -122,7 +122,7 @@
 			"file": "app/Http/Controllers/Category/CategoryController.php",
 			"settings":
 			{
-				"buffer_size": 2701,
+				"buffer_size": 2686,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -149,7 +149,7 @@
 			"file": "app/Transformers/BuyerTransformer.php",
 			"settings":
 			{
-				"buffer_size": 2100,
+				"buffer_size": 2577,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -158,8 +158,24 @@
 			"file": "app/Transformers/CategoryTransformer.php",
 			"settings":
 			{
-				"buffer_size": 1955,
+				"buffer_size": 2390,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 151,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "readme.md",
+			"settings":
+			{
+				"buffer_size": 4131,
 				"line_ending": "Unix"
 			}
 		},
@@ -167,7 +183,7 @@
 			"file": "app/Transformers/TransactionTransformer.php",
 			"settings":
 			{
-				"buffer_size": 2093,
+				"buffer_size": 2538,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -176,7 +192,7 @@
 			"file": "app/Http/Middleware/TransformInput.php",
 			"settings":
 			{
-				"buffer_size": 589,
+				"buffer_size": 1259,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -185,7 +201,7 @@
 			"file": "app/Transformers/SellerTransformer.php",
 			"settings":
 			{
-				"buffer_size": 2124,
+				"buffer_size": 2592,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -203,7 +219,7 @@
 			"file": "app/Http/Controllers/User/UserController.php",
 			"settings":
 			{
-				"buffer_size": 4330,
+				"buffer_size": 4315,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -221,16 +237,16 @@
 			"file": "app/Http/Controllers/Seller/SellerProductController.php",
 			"settings":
 			{
-				"buffer_size": 4164,
+				"buffer_size": 4149,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app/Http/Controllers/Transaction/TransactionSellerController.php",
+			"file": "app/Http/Controllers/Product/ProductBuyerController.php",
 			"settings":
 			{
-				"buffer_size": 1871,
+				"buffer_size": 1908,
 				"line_ending": "Unix"
 			}
 		},
@@ -238,7 +254,7 @@
 			"file": "app/Http/Controllers/Product/ProductBuyerTransactionController.php",
 			"settings":
 			{
-				"buffer_size": 3304,
+				"buffer_size": 3289,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -319,7 +335,7 @@
 	},
 	"console":
 	{
-		"height": 158.0,
+		"height": 214.0,
 		"history":
 		[
 			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
@@ -339,13 +355,7 @@
 		"/D/xampp/htdocs/laravel_restfulapi",
 		"/D/xampp/htdocs/laravel_restfulapi/app",
 		"/D/xampp/htdocs/laravel_restfulapi/app/Http",
-		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers",
-		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Category",
-		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Product",
-		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Seller",
-		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Transaction",
-		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/User",
-		"/D/xampp/htdocs/laravel_restfulapi/app/Transformers"
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Middleware"
 	],
 	"file_history":
 	[
@@ -360,7 +370,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -374,6 +384,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"[\n",
 			"{\n",
 			"buyer",
 			"use App\\Product;\n",
@@ -404,7 +415,7 @@
 	"groups":
 	[
 		{
-			"selected": 22,
+			"selected": 19,
 			"sheets":
 			[
 				{
@@ -435,7 +446,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 25,
+					"stack_index": 27,
 					"type": "text"
 				},
 				{
@@ -470,7 +481,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 19,
+					"stack_index": 21,
 					"type": "text"
 				},
 				{
@@ -505,10 +516,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 159.0,
+						"translation.y": 83.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
+					"stack_index": 22,
 					"type": "text"
 				},
 				{
@@ -517,15 +528,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1399,
+						"buffer_size": 1857,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								854,
-								854
+								1615,
+								1615
 							]
 						],
 						"settings":
@@ -547,10 +558,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 121.0,
+						"translation.y": 342.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
@@ -559,15 +570,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2273,
+						"buffer_size": 2885,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1708,
-								885
+								2475,
+								2475
 							]
 						],
 						"settings":
@@ -589,10 +600,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 384.0,
+						"translation.y": 448.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -631,7 +642,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 20,
 					"type": "text"
 				},
 				{
@@ -669,10 +680,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 56.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -704,7 +715,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 22,
+					"stack_index": 24,
 					"type": "text"
 				},
 				{
@@ -744,7 +755,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 19,
 					"type": "text"
 				},
 				{
@@ -778,7 +789,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 23,
+					"stack_index": 25,
 					"type": "text"
 				},
 				{
@@ -815,7 +826,7 @@
 						"translation.y": 421.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 21,
+					"stack_index": 23,
 					"type": "text"
 				},
 				{
@@ -824,20 +835,23 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2701,
+						"buffer_size": 2686,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								461,
-								265
+								580,
+								580
 							]
 						],
 						"settings":
 						{
 							"SL.23.region_keys":
+							[
+							],
+							"SL.24.region_keys":
 							[
 							],
 							"SL.39.region_keys":
@@ -852,7 +866,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -868,12 +882,15 @@
 						"selection":
 						[
 							[
-								183,
-								183
+								214,
+								214
 							]
 						],
 						"settings":
 						{
+							"SL.25.region_keys":
+							[
+							],
 							"SL.54.region_keys":
 							[
 								"sublime_linter.protected_regions"
@@ -885,7 +902,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -925,7 +942,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -934,15 +951,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2100,
+						"buffer_size": 2577,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1647,
-								698
+								239,
+								248
 							]
 						],
 						"settings":
@@ -965,10 +982,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 266.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -977,15 +994,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1955,
+						"buffer_size": 2390,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1592,
-								1592
+								1195,
+								1195
 							]
 						],
 						"settings":
@@ -1007,27 +1024,83 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 40.8,
+						"translation.y": 30.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
 					"buffer": 16,
-					"file": "app/Transformers/TransactionTransformer.php",
-					"semi_transient": false,
+					"file": ".gitignore",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 2093,
+						"buffer_size": 151,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1616,
-								774
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "readme.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "app/Transformers/TransactionTransformer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2538,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2402,
+								2402
 							]
 						],
 						"settings":
@@ -1050,31 +1123,38 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 234.0,
+						"translation.y": 1140.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
-					"buffer": 17,
+					"buffer": 19,
 					"file": "app/Http/Middleware/TransformInput.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 589,
+						"buffer_size": 1259,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								479,
-								479
+								373,
+								373
 							]
 						],
 						"settings":
 						{
+							"SL.30.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.32.region_keys":
+							[
+							],
 							"SL.59.region_keys":
 							[
 								"sublime_linter.protected_regions"
@@ -1088,24 +1168,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 18,
+					"buffer": 20,
 					"file": "app/Transformers/SellerTransformer.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2124,
+						"buffer_size": 2592,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								880,
-								880
+								2312,
+								2312
 							]
 						],
 						"settings":
@@ -1114,6 +1194,13 @@
 							[
 							],
 							"SL.30.region_keys":
+							[
+							],
+							"SL.31.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.33.region_keys":
 							[
 							],
 							"SL.92.region_keys":
@@ -1126,14 +1213,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 375.2,
+						"translation.y": 539.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
-					"buffer": 19,
+					"buffer": 21,
 					"file": "app/Http/Kernel.php",
 					"semi_transient": false,
 					"settings":
@@ -1145,8 +1232,8 @@
 						"selection":
 						[
 							[
-								2445,
-								2445
+								2452,
+								2452
 							]
 						],
 						"settings":
@@ -1154,6 +1241,12 @@
 							"SL.31.region_keys":
 							[
 								"sublime_linter.protected_regions"
+							],
+							"SL.32.region_keys":
+							[
+							],
+							"SL.34.region_keys":
+							[
 							],
 							"SL.57.region_keys":
 							[
@@ -1165,31 +1258,34 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 948.8,
+						"translation.y": 438.4,
 						"zoom_level": 1.0
 					},
 					"stack_index": 9,
 					"type": "text"
 				},
 				{
-					"buffer": 20,
+					"buffer": 22,
 					"file": "app/Http/Controllers/User/UserController.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4330,
+						"buffer_size": 4315,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								465,
-								282
+								450,
+								279
 							]
 						],
 						"settings":
 						{
+							"SL.33.region_keys":
+							[
+							],
 							"SL.40.region_keys":
 							[
 								"sublime_linter.protected_regions"
@@ -1203,11 +1299,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 17,
 					"type": "text"
 				},
 				{
-					"buffer": 21,
+					"buffer": 23,
 					"file": "app/Http/Controllers/Seller/SellerController.php",
 					"semi_transient": false,
 					"settings":
@@ -1234,31 +1330,34 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 56.8,
+						"translation.y": 57.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
-					"buffer": 22,
+					"buffer": 24,
 					"file": "app/Http/Controllers/Seller/SellerProductController.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4164,
+						"buffer_size": 4149,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								550,
-								364
+								535,
+								361
 							]
 						],
 						"settings":
 						{
+							"SL.35.region_keys":
+							[
+							],
 							"SL.42.region_keys":
 							[
 							],
@@ -1271,16 +1370,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
-					"buffer": 23,
-					"file": "app/Http/Controllers/Transaction/TransactionSellerController.php",
-					"semi_transient": true,
+					"buffer": 25,
+					"file": "app/Http/Controllers/Product/ProductBuyerController.php",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1871,
+						"buffer_size": 1908,
 						"regions":
 						{
 						},
@@ -1293,7 +1392,7 @@
 						],
 						"settings":
 						{
-							"SL.78.region_keys":
+							"SL.79.region_keys":
 							[
 							],
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
@@ -1304,28 +1403,31 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
-					"buffer": 24,
+					"buffer": 26,
 					"file": "app/Http/Controllers/Product/ProductBuyerTransactionController.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3304,
+						"buffer_size": 3289,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								501,
-								321
+								486,
+								318
 							]
 						],
 						"settings":
 						{
+							"SL.37.region_keys":
+							[
+							],
 							"SL.50.region_keys":
 							[
 							],
@@ -1338,11 +1440,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
-					"buffer": 25,
+					"buffer": 27,
 					"file": "resources/views/emails/welcome.blade.php",
 					"semi_transient": false,
 					"settings":
@@ -1370,11 +1472,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 27,
+					"stack_index": 29,
 					"type": "text"
 				},
 				{
-					"buffer": 26,
+					"buffer": 28,
 					"file": "app/Mail/UserCreated.php",
 					"semi_transient": false,
 					"settings":
@@ -1404,11 +1506,11 @@
 						"translation.y": 113.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 24,
+					"stack_index": 26,
 					"type": "text"
 				},
 				{
-					"buffer": 27,
+					"buffer": 29,
 					"file": "app/Mail/UserMailChanged.php",
 					"semi_transient": false,
 					"settings":
@@ -1438,7 +1540,7 @@
 						"translation.y": 133.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 26,
+					"stack_index": 28,
 					"type": "text"
 				}
 			]
@@ -1446,11 +1548,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 60.0
+		"height": 24.0
 	},
 	"input":
 	{
-		"height": 40.0
+		"height": 109.0
 	},
 	"layout":
 	{
@@ -1487,7 +1589,7 @@
 	"project": "text_editor.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 44.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1496,6 +1598,58 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"kernel",
+				"app\\Http\\Kernel.php"
+			],
+			[
+				"readme",
+				"readme.md"
+			],
+			[
+				"transform",
+				"app\\Http\\Middleware\\TransformInput.php"
+			],
+			[
+				"UserTran",
+				"app\\Transformers\\UserTransformer.php"
+			],
+			[
+				"Transfom",
+				"app\\Http\\Middleware\\TransformInput.php"
+			],
+			[
+				"apiCon",
+				"app\\Http\\Controllers\\ApiController.php"
+			],
+			[
+				"categor",
+				"app\\Http\\Controllers\\Category\\CategoryController.php"
+			],
+			[
+				"productbuy",
+				"app\\Http\\Controllers\\Product\\ProductBuyerTransactionController.php"
+			],
+			[
+				"Product",
+				"app\\Http\\Controllers\\Product\\ProductBuyerController.php"
+			],
+			[
+				"seller",
+				"app\\Http\\Controllers\\Seller\\SellerProductController.php"
+			],
+			[
+				"UserContro",
+				"app\\Http\\Controllers\\User\\UserController.php"
+			],
+			[
+				"transformin",
+				"app\\Http\\Middleware\\TransformInput.php"
+			],
+			[
+				"UserTrsa",
+				"app\\Transformers\\UserTransformer.php"
+			],
 			[
 				"transfor",
 				"app\\Http\\Middleware\\TransformInput.php"
@@ -1509,20 +1663,8 @@
 				"app\\Http\\Controllers\\User\\UserController.php"
 			],
 			[
-				"kernel",
-				"app\\Http\\Kernel.php"
-			],
-			[
-				"transform",
-				"app\\Http\\Middleware\\TransformInput.php"
-			],
-			[
 				"kerne",
 				"app\\Http\\Kernel.php"
-			],
-			[
-				"UserContro",
-				"app\\Http\\Controllers\\User\\UserController.php"
 			],
 			[
 				"transac",
@@ -1601,7 +1743,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 443.0,
+	"side_bar_width": 351.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
