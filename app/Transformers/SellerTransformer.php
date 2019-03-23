@@ -54,7 +54,7 @@ class SellerTransformer extends TransformerAbstract
 
     public static function originalAttribute($index)
     {
-        return [
+        $attributes = [
             'identifier' => 'id',
             'name' => 'name',
             'email' => 'email',
@@ -69,7 +69,7 @@ class SellerTransformer extends TransformerAbstract
 
     public static function transformerdAttribute($index)
     {
-        return [
+        $attributes = [
             'id'           => 'identifier',
             'name'         => 'name',
             'email'        => 'email',

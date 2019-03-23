@@ -51,7 +51,7 @@ class TransactionTransformer extends TransformerAbstract
 
     public static function originalAttribute($index)
     {
-        return [
+        $attributes = [
             'identifier' => 'id',
             'quantity' => 'quantity',
             'buyer' => 'buyer_id',
@@ -66,7 +66,7 @@ class TransactionTransformer extends TransformerAbstract
 
     public static function transformedAttribute($index)
     {
-        return [
+        $attributes = [
             'id' => 'identifier',
             'quantity' => 'quantity',
             'buyer_id' => 'buyer',
