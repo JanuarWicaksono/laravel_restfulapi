@@ -12,12 +12,12 @@ use App\Transformers\TransactionTransformer;
 
 class ProductBuyerTransactionController extends ApiController
 {
-    // public function __construct()
-    // {
-    //     parent::__construct();
+    public function __construct()
+    {
+        parent::__construct();
 
-    //     $this->middleware('transform.input:'. TransactionTransformer::class)->only(['store']);
-    // }
+        $this->middleware('transform.input:'. TransactionTransformer::class)->only(['store']);
+    }
 
     /**
      * Display a listing of the resource.
