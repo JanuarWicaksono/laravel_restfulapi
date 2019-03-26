@@ -1,9 +1,5 @@
 <p align="center">
-	<img src="https://laravel.com/assets/img/components/logo-laravel.svg">
-</p>
-
-<p align="center">
-	Restful API Using Larvel 5.8
+	<h2>Restful API Using Larvel 5.8</h2>
 </p>
 
 ## About
