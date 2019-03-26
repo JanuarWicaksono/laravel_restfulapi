@@ -4,7 +4,6 @@ namespace App\Http\Middleware;
 
 use Closure;
 use Illuminate\Validation\ValidationException;
-use App\Transformers\originalAttribute;
 
 class TransformInput
 {
