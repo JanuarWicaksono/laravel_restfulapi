@@ -20,356 +20,10 @@
 	"buffers":
 	[
 		{
-			"file": ".env",
-			"settings":
-			{
-				"buffer_size": 787,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/emails/confirm.blade.php",
-			"settings":
-			{
-				"buffer_size": 313,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "config/app.php",
-			"settings":
-			{
-				"buffer_size": 9240,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Transformers/UserTransformer.php",
-			"settings":
-			{
-				"buffer_size": 2111,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Http/Controllers/Buyer/BuyerCategoryController.php",
-			"settings":
-			{
-				"buffer_size": 1907,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Transformers/ProductTransformer.php",
-			"settings":
-			{
-				"buffer_size": 2898,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Buyer.php",
-			"settings":
-			{
-				"buffer_size": 446,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Traits/ApiResponser.php",
-			"settings":
-			{
-				"buffer_size": 3204,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/Seller.php",
-			"settings":
-			{
-				"buffer_size": 392,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Category.php",
-			"settings":
-			{
-				"buffer_size": 521,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Product.php",
-			"settings":
-			{
-				"buffer_size": 989,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "app/User.php",
 			"settings":
 			{
-				"buffer_size": 1812,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Http/Controllers/Category/CategoryController.php",
-			"settings":
-			{
-				"buffer_size": 2686,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Http/Controllers/ApiController.php",
-			"settings":
-			{
-				"buffer_size": 217,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Transaction.php",
-			"settings":
-			{
-				"buffer_size": 593,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Transformers/BuyerTransformer.php",
-			"settings":
-			{
-				"buffer_size": 2591,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "routes/web.php",
-			"settings":
-			{
-				"buffer_size": 1209,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/layouts/app.blade.php",
-			"settings":
-			{
-				"buffer_size": 3543,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/welcome.blade.php",
-			"settings":
-			{
-				"buffer_size": 626,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "vendor/symfony/routing/Route.php",
-			"settings":
-			{
-				"buffer_size": 14328,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "vendor/symfony/routing/Router.php",
-			"settings":
-			{
-				"buffer_size": 12658,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "vendor/laravel/framework/src/Illuminate/Routing/Route.php",
-			"settings":
-			{
-				"buffer_size": 20704,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "vendor/laravel/framework/src/Illuminate/Routing/Router.php",
-			"settings":
-			{
-				"buffer_size": 34520,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Transformers/CategoryTransformer.php",
-			"settings":
-			{
-				"buffer_size": 2402,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "readme.md",
-			"settings":
-			{
-				"buffer_size": 871,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Transformers/TransactionTransformer.php",
-			"settings":
-			{
-				"buffer_size": 2552,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Http/Middleware/TransformInput.php",
-			"settings":
-			{
-				"buffer_size": 1233,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Http/Middleware/TrimStrings.php",
-			"settings":
-			{
-				"buffer_size": 340,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Transformers/SellerTransformer.php",
-			"settings":
-			{
-				"buffer_size": 2606,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Http/Kernel.php",
-			"settings":
-			{
-				"buffer_size": 3057,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Http/Controllers/User/UserController.php",
-			"settings":
-			{
-				"buffer_size": 4315,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "vendor/laravel/framework/src/Illuminate/Http/Request.php",
-			"settings":
-			{
-				"buffer_size": 15688,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Exceptions/Handler.php",
-			"settings":
-			{
-				"buffer_size": 4219,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Http/Controllers/Seller/SellerController.php",
-			"settings":
-			{
-				"buffer_size": 1697,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Http/Controllers/Seller/SellerProductController.php",
-			"settings":
-			{
-				"buffer_size": 4149,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Http/Controllers/Product/ProductBuyerController.php",
-			"settings":
-			{
-				"buffer_size": 1908,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Http/Controllers/Product/ProductBuyerTransactionController.php",
-			"settings":
-			{
-				"buffer_size": 3289,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/emails/welcome.blade.php",
-			"settings":
-			{
-				"buffer_size": 294,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/Mail/UserCreated.php",
-			"settings":
-			{
-				"buffer_size": 609,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Mail/UserMailChanged.php",
-			"settings":
-			{
-				"buffer_size": 655,
+				"buffer_size": 1861,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -441,13 +95,71 @@
 	"expanded_folders":
 	[
 		"/D/xampp/htdocs/laravel_restfulapi",
-		"/D/xampp/htdocs/laravel_restfulapi/app",
-		"/D/xampp/htdocs/laravel_restfulapi/routes"
+		"/D/xampp/htdocs/laravel_restfulapi/config",
+		"/D/xampp/htdocs/laravel_restfulapi/routes",
+		"/D/xampp/htdocs/laravel_restfulapi/storage"
 	],
 	"file_history":
 	[
-		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Auth/ForgotPasswordController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/.env",
+		"/D/xampp/htdocs/laravel_restfulapi/resources/views/emails/confirm.blade.php",
+		"/D/xampp/htdocs/laravel_restfulapi/config/app.php",
+		"/D/xampp/htdocs/laravel_restfulapi/.gitignore",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Transformers/UserTransformer.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Buyer/BuyerCategoryController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Buyer/BuyerController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Buyer/BuyerProductController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Buyer/BuyerSellerController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Buyer/BuyerTransactionController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Category/CategoryBuyerController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Transformers/ProductTransformer.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Buyer.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Traits/ApiResponser.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Seller.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Category.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Product.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Providers/AuthServiceProvider.php",
+		"/D/xampp/htdocs/laravel_restfulapi/routes/api.php",
+		"/D/xampp/htdocs/laravel_restfulapi/config/auth.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Category/CategoryController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Category/CategoryProductController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Category/CategorySellerController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Category/CategoryTransactionController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Product/ProductController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Product/ProductCategoryController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Seller/SellerBuyerController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Seller/SellerCategoryController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Transaction/TransactionCategoryController.php",
 		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Transaction/TransactionController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Transaction/TransactionSellerController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/ApiController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Transaction.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Transformers/BuyerTransformer.php",
+		"/D/xampp/htdocs/laravel_restfulapi/routes/web.php",
+		"/D/xampp/htdocs/laravel_restfulapi/resources/views/layouts/app.blade.php",
+		"/D/xampp/htdocs/laravel_restfulapi/resources/views/welcome.blade.php",
+		"/D/xampp/htdocs/laravel_restfulapi/vendor/symfony/routing/Route.php",
+		"/D/xampp/htdocs/laravel_restfulapi/vendor/symfony/routing/Router.php",
+		"/D/xampp/htdocs/laravel_restfulapi/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+		"/D/xampp/htdocs/laravel_restfulapi/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Transformers/CategoryTransformer.php",
+		"/D/xampp/htdocs/laravel_restfulapi/readme.md",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Transformers/TransactionTransformer.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Middleware/TransformInput.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Transformers/SellerTransformer.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Kernel.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/User/UserController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Exceptions/Handler.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Seller/SellerController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Seller/SellerTransactionController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Seller/SellerProductController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Product/ProductBuyerController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Product/ProductBuyerTransactionController.php",
+		"/D/xampp/htdocs/laravel_restfulapi/resources/views/emails/welcome.blade.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Mail/UserCreated.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Mail/UserMailChanged.php",
+		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Controllers/Auth/ForgotPasswordController.php",
 		"/D/xampp/htdocs/laravel_restfulapi/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
 		"/D/xampp/htdocs/laravel_restfulapi/vendor/paragonie/random_compat/psalm-autoload.php",
 		"/D/xampp/htdocs/laravel_restfulapi/app/Http/Middleware/CustomThrottleRequests.php",
@@ -457,7 +169,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 42.4
 	},
 	"find_in_files":
 	{
@@ -471,6 +183,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"pasport",
+			"']);",
 			"auth",
 			"AUTH",
 			"[\n",
@@ -504,432 +218,24 @@
 	"groups":
 	[
 		{
-			"selected": 24,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": ".env",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 787,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								16,
-								16
-							]
-						],
-						"settings":
-						{
-							"SL.18.region_keys":
-							[
-							],
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 37,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "resources/views/emails/confirm.blade.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 313,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								261,
-								261
-							]
-						],
-						"settings":
-						{
-							"SL.14.region_keys":
-							[
-							],
-							"SL.19.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 31,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "config/app.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9240,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6287,
-								6287
-							]
-						],
-						"settings":
-						{
-							"SL.15.region_keys":
-							[
-							],
-							"SL.58.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 26.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 32,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "app/Transformers/UserTransformer.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2111,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1194,
-								1194
-							]
-						],
-						"settings":
-						{
-							"SL.16.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.17.region_keys":
-							[
-							],
-							"SL.89.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 690.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "app/Http/Controllers/Buyer/BuyerCategoryController.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1907,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								419,
-								419
-							]
-						],
-						"settings":
-						{
-							"SL.241.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "app/Transformers/ProductTransformer.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2898,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2478,
-								2478
-							]
-						],
-						"settings":
-						{
-							"SL.113.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.17.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.18.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 861.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "app/Buyer.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 446,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								198,
-								198
-							]
-						],
-						"settings":
-						{
-							"SL.114.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.18.region_keys":
-							[
-							],
-							"SL.19.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 30,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "app/Traits/ApiResponser.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3204,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3114,
-								3114
-							]
-						],
-						"settings":
-						{
-							"SL.121.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.19.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.20.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 25,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "app/Seller.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 392,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								158,
-								158
-							]
-						],
-						"settings":
-						{
-							"SL.115.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 34,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "app/Category.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 521,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								242,
-								242
-							]
-						],
-						"settings":
-						{
-							"SL.116.region_keys":
-							[
-							],
-							"SL.21.region_keys":
-							[
-							],
-							"SL.22.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 29,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "app/Product.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 989,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								372,
-								372
-							]
-						],
-						"settings":
-						{
-							"SL.117.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 35,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
 					"file": "app/User.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1812,
+						"buffer_size": 1861,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1035,
-								1035
+								355,
+								355
 							]
 						],
 						"settings":
@@ -940,481 +246,16 @@
 							"SL.23.region_keys":
 							[
 							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 421.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 33,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "app/Http/Controllers/Category/CategoryController.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2686,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								580,
-								580
-							]
-						],
-						"settings":
-						{
-							"SL.23.region_keys":
+							"SL.30.region_keys":
 							[
 							],
-							"SL.24.region_keys":
-							[
-							],
-							"SL.39.region_keys":
+							"SL.41.region_keys":
 							[
 							],
 							"auto_complete": false,
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 24,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "app/Http/Controllers/ApiController.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 217,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								214,
-								214
-							]
-						],
-						"settings":
-						{
-							"SL.25.region_keys":
-							[
-							],
-							"SL.54.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 26,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "app/Transaction.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 593,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								38,
-								55
-							]
-						],
-						"settings":
-						{
-							"SL.119.region_keys":
-							[
-							],
-							"SL.24.region_keys":
-							[
-							],
-							"SL.26.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 27,
-					"type": "text"
-				},
-				{
-					"buffer": 15,
-					"file": "app/Transformers/BuyerTransformer.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2591,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								268,
-								268
-							]
-						],
-						"settings":
-						{
-							"SL.25.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.27.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.91.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 622.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 19,
-					"type": "text"
-				},
-				{
-					"buffer": 16,
-					"file": "routes/web.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1209,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1069,
-								411
-							]
-						],
-						"settings":
-						{
-							"SL.48.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 155.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 17,
-					"file": "resources/views/layouts/app.blade.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3543,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2152,
-								1876
-							]
-						],
-						"settings":
-						{
-							"SL.237.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 507.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 18,
-					"file": "resources/views/welcome.blade.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 626,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								561,
-								561
-							]
-						],
-						"settings":
-						{
-							"SL.236.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 19,
-					"file": "vendor/symfony/routing/Route.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 14328,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								385,
-								389
-							]
-						],
-						"settings":
-						{
-							"SL.87.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 18,
-					"type": "text"
-				},
-				{
-					"buffer": 20,
-					"file": "vendor/symfony/routing/Router.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 12658,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1162,
-								1166
-							]
-						],
-						"settings":
-						{
-							"SL.221.region_keys":
-							[
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 220.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 17,
-					"type": "text"
-				},
-				{
-					"buffer": 21,
-					"file": "vendor/laravel/framework/src/Illuminate/Routing/Route.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 20704,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								15662,
-								15691
-							]
-						],
-						"settings":
-						{
-							"SL.229.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 16,
-					"type": "text"
-				},
-				{
-					"buffer": 22,
-					"file": "vendor/laravel/framework/src/Illuminate/Routing/Router.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 34520,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								31421,
-								30688
-							]
-						],
-						"settings":
-						{
-							"SL.234.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 20598.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 15,
-					"type": "text"
-				},
-				{
-					"buffer": 23,
-					"file": "app/Transformers/CategoryTransformer.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2402,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2043,
-								2043
-							]
-						],
-						"settings":
-						{
-							"SL.26.region_keys":
-							[
-							],
-							"SL.28.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.93.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 642.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 24,
-					"file": "readme.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 871,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								871
-							]
-						],
-						"settings":
-						{
-							"SL.37.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1422,601 +263,13 @@
 					},
 					"stack_index": 0,
 					"type": "text"
-				},
-				{
-					"buffer": 25,
-					"file": "app/Transformers/TransactionTransformer.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2552,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2182,
-								2182
-							]
-						],
-						"settings":
-						{
-							"SL.112.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.27.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.29.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.30.region_keys":
-							[
-							],
-							"SL.31.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 766.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 26,
-					"file": "app/Http/Middleware/TransformInput.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1233,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								51,
-								51
-							]
-						],
-						"settings":
-						{
-							"SL.30.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.31.region_keys":
-							[
-							],
-							"SL.32.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.59.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 27,
-					"file": "app/Http/Middleware/TrimStrings.php",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 340,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"SL.251.region_keys":
-							[
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 28,
-					"file": "app/Transformers/SellerTransformer.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2606,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2214,
-								2214
-							]
-						],
-						"settings":
-						{
-							"SL.28.region_keys":
-							[
-							],
-							"SL.30.region_keys":
-							[
-							],
-							"SL.31.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.32.region_keys":
-							[
-							],
-							"SL.33.region_keys":
-							[
-							],
-							"SL.92.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 29,
-					"file": "app/Http/Kernel.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3057,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2452,
-								2452
-							]
-						],
-						"settings":
-						{
-							"SL.31.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.32.region_keys":
-							[
-							],
-							"SL.34.region_keys":
-							[
-							],
-							"SL.57.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 438.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 28,
-					"type": "text"
-				},
-				{
-					"buffer": 30,
-					"file": "app/Http/Controllers/User/UserController.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4315,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1067,
-								1067
-							]
-						],
-						"settings":
-						{
-							"SL.33.region_keys":
-							[
-							],
-							"SL.34.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.40.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.43.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 624.8,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 31,
-					"file": "vendor/laravel/framework/src/Illuminate/Http/Request.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 15688,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								350,
-								350
-							]
-						],
-						"settings":
-						{
-							"SL.242.region_keys":
-							[
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 648.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 32,
-					"file": "app/Exceptions/Handler.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4219,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4001,
-								3757
-							]
-						],
-						"settings":
-						{
-							"SL.250.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1869.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 33,
-					"file": "app/Http/Controllers/Seller/SellerController.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1697,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								179,
-								179
-							]
-						],
-						"settings":
-						{
-							"SL.36.region_keys":
-							[
-							],
-							"SL.41.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 57.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 22,
-					"type": "text"
-				},
-				{
-					"buffer": 34,
-					"file": "app/Http/Controllers/Seller/SellerProductController.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4149,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								535,
-								361
-							]
-						],
-						"settings":
-						{
-							"SL.35.region_keys":
-							[
-							],
-							"SL.37.region_keys":
-							[
-							],
-							"SL.42.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 473.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 21,
-					"type": "text"
-				},
-				{
-					"buffer": 35,
-					"file": "app/Http/Controllers/Product/ProductBuyerController.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1908,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"SL.38.region_keys":
-							[
-							],
-							"SL.79.region_keys":
-							[
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 23,
-					"type": "text"
-				},
-				{
-					"buffer": 36,
-					"file": "app/Http/Controllers/Product/ProductBuyerTransactionController.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3289,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								486,
-								318
-							]
-						],
-						"settings":
-						{
-							"SL.37.region_keys":
-							[
-							],
-							"SL.39.region_keys":
-							[
-							],
-							"SL.50.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 424.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 20,
-					"type": "text"
-				},
-				{
-					"buffer": 37,
-					"file": "resources/views/emails/welcome.blade.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 294,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								210,
-								210
-							]
-						],
-						"settings":
-						{
-							"SL.21.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 39,
-					"type": "text"
-				},
-				{
-					"buffer": 38,
-					"file": "app/Mail/UserCreated.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 609,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								609,
-								609
-							]
-						],
-						"settings":
-						{
-							"SL.40.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 113.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 36,
-					"type": "text"
-				},
-				{
-					"buffer": 39,
-					"file": "app/Mail/UserMailChanged.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 655,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								585,
-								585
-							]
-						],
-						"settings":
-						{
-							"SL.41.region_keys":
-							[
-							],
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 133.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 38,
-					"type": "text"
 				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -2057,7 +310,7 @@
 	"project": "text_editor.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -2066,6 +319,38 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"apicontroller",
+				"app\\Http\\Controllers\\ApiController.php"
+			],
+			[
+				"categor",
+				"app\\Http\\Controllers\\Category\\CategoryController.php"
+			],
+			[
+				"kernel",
+				"app\\Http\\Kernel.php"
+			],
+			[
+				"auth",
+				"config\\auth.php"
+			],
+			[
+				"api",
+				"routes\\api.php"
+			],
+			[
+				"authse",
+				"app\\Providers\\AuthServiceProvider.php"
+			],
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"app",
+				"config\\app.php"
+			],
 			[
 				"User",
 				"app\\Http\\Controllers\\User\\UserController.php"
@@ -2099,10 +384,6 @@
 				"app\\Transformers\\CategoryTransformer.php"
 			],
 			[
-				"kernel",
-				"app\\Http\\Kernel.php"
-			],
-			[
 				"readme",
 				"readme.md"
 			],
@@ -2121,10 +402,6 @@
 			[
 				"apiCon",
 				"app\\Http\\Controllers\\ApiController.php"
-			],
-			[
-				"categor",
-				"app\\Http\\Controllers\\Category\\CategoryController.php"
 			],
 			[
 				"productbuy",
@@ -2155,10 +432,6 @@
 				"app\\Http\\Middleware\\TransformInput.php"
 			],
 			[
-				"api",
-				"app\\Traits\\ApiResponser.php"
-			],
-			[
 				"kerne",
 				"app\\Http\\Kernel.php"
 			],
@@ -2179,20 +452,12 @@
 				"app\\Transformers\\UserTransformer.php"
 			],
 			[
-				"user",
-				"app\\Transformers\\UserTransformer.php"
-			],
-			[
 				"apires",
 				"app\\Traits\\ApiResponser.php"
 			],
 			[
 				"apiRes",
 				"app\\Traits\\ApiResponser.php"
-			],
-			[
-				"app",
-				"config\\app.php"
 			],
 			[
 				"Custom",
