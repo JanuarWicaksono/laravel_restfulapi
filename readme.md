@@ -35,11 +35,3 @@ This is the my source code training references from Udemy Course by <a href="htt
 	<li>HATEOAS (Hypermedia as the Engine of Application State)</li>
 	<li>User Authentication</li>
 </ul>
-
-<p align="center">
-	<h2>References</h2>
-</p>
-
-<ul>
-	<li>https://www.udemy.com/restful-api-with-laravel-php-homestead-passport-hateoas/</li>
-</ul>
